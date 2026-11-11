@@ -1,0 +1,1186 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Artboard-bgps.dc.html": {
+      "h": 600,
+      "handmade": true,
+      "page": "page-rvydoh",
+      "title": "Artboard 1",
+      "w": 800,
+      "x": 0,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 2760,
+      "title": "T01.A Início — Ação agora",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T01B-Indicadores.dc.html": {
+      "x": 1520,
+      "y": 0,
+      "w": 1440,
+      "h": 1920,
+      "title": "T01.B Indicadores da carteira",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T01C-Financeiro.dc.html": {
+      "x": 3040,
+      "y": 0,
+      "w": 1440,
+      "h": 2480,
+      "title": "T01.C Painel financeiro",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T00-Acesso.dc.html": {
+      "x": 4560,
+      "y": 0,
+      "w": 1440,
+      "h": 960,
+      "title": "T00 Acesso — entrada",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T00-Unidade.dc.html": {
+      "x": 6080,
+      "y": 0,
+      "w": 1440,
+      "h": 960,
+      "title": "T00 Seleção de unidade",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T00-Sessao.dc.html": {
+      "x": 7600,
+      "y": 0,
+      "w": 1440,
+      "h": 960,
+      "title": "T00 Sessão expirada",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Carteira.dc.html": {
+      "x": 0,
+      "y": 3180,
+      "w": 1440,
+      "h": 2320,
+      "title": "T02.A Carteira — Vigentes",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T02B-Encerrados.dc.html": {
+      "x": 1520,
+      "y": 3180,
+      "w": 1440,
+      "h": 1320,
+      "title": "T02.B Carteira — Encerrados e extintos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T02C-Rascunhos.dc.html": {
+      "x": 3040,
+      "y": 3180,
+      "w": 1440,
+      "h": 1080,
+      "title": "T02.C Carteira — Rascunhos e não validados",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T02D-Todos.dc.html": {
+      "x": 4560,
+      "y": 3180,
+      "w": 1440,
+      "h": 2440,
+      "title": "T02.D Carteira — Todos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Ficha.dc.html": {
+      "x": 0,
+      "y": 6040,
+      "w": 1440,
+      "h": 2400,
+      "title": "T03.01 Ficha — Identificação, contratada e origem",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0302-Prazos.dc.html": {
+      "x": 1520,
+      "y": 6040,
+      "w": 1440,
+      "h": 2440,
+      "title": "T03.02 Ficha — Prazos e continuidade",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T03-Historico.dc.html": {
+      "x": 3040,
+      "y": 6040,
+      "w": 1440,
+      "h": 1520,
+      "title": "T03 Ficha — Situação em uma data (CH01)",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0303-Valores.dc.html": {
+      "x": 4560,
+      "y": 6040,
+      "w": 1440,
+      "h": 2040,
+      "title": "T03.03 Ficha — Valores e composição",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0304-Empenhos.dc.html": {
+      "x": 6080,
+      "y": 6040,
+      "w": 1440,
+      "h": 1840,
+      "title": "T03.04 Ficha — Empenhos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0305-Pagamentos.dc.html": {
+      "x": 7600,
+      "y": 6040,
+      "w": 1440,
+      "h": 1440,
+      "title": "T03.05 Ficha — Documentos fiscais e pagamentos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0306-Alteracoes.dc.html": {
+      "x": 9120,
+      "y": 6040,
+      "w": 1440,
+      "h": 1880,
+      "title": "T03.06 Ficha — Alterações e reajustes",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0307-Garantias.dc.html": {
+      "x": 10640,
+      "y": 6040,
+      "w": 1440,
+      "h": 1560,
+      "title": "T03.07 Ficha — Garantias e seguros",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0308-Responsaveis.dc.html": {
+      "x": 12160,
+      "y": 6040,
+      "w": 1440,
+      "h": 2560,
+      "title": "T03.08 Ficha — Responsáveis e designações",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0309-Documentos.dc.html": {
+      "x": 13680,
+      "y": 6040,
+      "w": 1440,
+      "h": 1920,
+      "title": "T03.09 Ficha — Documentos e processos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0310-Historico.dc.html": {
+      "x": 15200,
+      "y": 6040,
+      "w": 1440,
+      "h": 1600,
+      "title": "T03.10 Ficha — Providências e histórico",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0311-Conformidade.dc.html": {
+      "x": 16720,
+      "y": 6040,
+      "w": 1440,
+      "h": 1760,
+      "title": "T03.11 Ficha — Conformidade da gestão e fiscalização",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P1-Identificacao.dc.html": {
+      "x": 0,
+      "y": 9020,
+      "w": 1440,
+      "h": 1960,
+      "title": "T04 Passo 1 — Identificação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P2-Contratada.dc.html": {
+      "x": 1520,
+      "y": 9020,
+      "w": 1440,
+      "h": 1440,
+      "title": "T04 Passo 2 — Contratada",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P3-Origem.dc.html": {
+      "x": 3040,
+      "y": 9020,
+      "w": 1440,
+      "h": 1560,
+      "title": "T04 Passo 3 — Origem e regime",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P4-Processos.dc.html": {
+      "x": 4560,
+      "y": 9020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T04 Passo 4 — Processos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P5-Responsaveis.dc.html": {
+      "x": 6080,
+      "y": 9020,
+      "w": 1440,
+      "h": 1480,
+      "title": "T04 Passo 5 — Responsáveis",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P6-Prazos.dc.html": {
+      "x": 7600,
+      "y": 9020,
+      "w": 1440,
+      "h": 1480,
+      "title": "T04 Passo 6 — Prazos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-P7-Composicao.dc.html": {
+      "x": 9120,
+      "y": 9020,
+      "w": 1440,
+      "h": 1840,
+      "title": "T04 Passo 7 — Composição financeira",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T04-Revisao.dc.html": {
+      "x": 10640,
+      "y": 9020,
+      "w": 1440,
+      "h": 1520,
+      "title": "T04 Revisão — submeter, validar ou devolver",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0401-Formalizacao.dc.html": {
+      "x": 12160,
+      "y": 9020,
+      "w": 1440,
+      "h": 2480,
+      "title": "T04.01 Revisão e formalização de evento",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Vencimentos.dc.html": {
+      "x": 0,
+      "y": 11920,
+      "w": 1440,
+      "h": 2880,
+      "title": "T05.A Vencimentos — Lista por faixas",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T05B-Calendario.dc.html": {
+      "x": 1520,
+      "y": 11920,
+      "w": 1440,
+      "h": 2360,
+      "title": "T05.B Vencimentos — Calendário",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T05C-Continuidade.dc.html": {
+      "x": 3040,
+      "y": 11920,
+      "w": 1440,
+      "h": 1080,
+      "title": "T05.C Vencimentos — Continuidade",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T05D-Marcos.dc.html": {
+      "x": 4560,
+      "y": 11920,
+      "w": 1440,
+      "h": 1560,
+      "title": "T05.D Vencimentos — Marcos regulamentares",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Prorrogacoes.dc.html": {
+      "x": 6080,
+      "y": 11920,
+      "w": 1440,
+      "h": 1160,
+      "title": "T06.A Procedimentos — Em andamento",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06B-Concluidos.dc.html": {
+      "x": 7600,
+      "y": 11920,
+      "w": 1440,
+      "h": 960,
+      "title": "T06.B Procedimentos — Concluídos e cancelados",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D1-Resumo.dc.html": {
+      "x": 9120,
+      "y": 11920,
+      "w": 1440,
+      "h": 1040,
+      "title": "T06 Detalhe — 1 Resumo",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D2-Etapas.dc.html": {
+      "x": 10640,
+      "y": 11920,
+      "w": 1440,
+      "h": 1120,
+      "title": "T06 Detalhe — 2 Etapas e movimentações",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D3-Checklist.dc.html": {
+      "x": 12160,
+      "y": 11920,
+      "w": 1440,
+      "h": 1360,
+      "title": "T06 Detalhe — 3 Lista de verificação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D4-Marcos.dc.html": {
+      "x": 13680,
+      "y": 11920,
+      "w": 1440,
+      "h": 1080,
+      "title": "T06 Detalhe — 4 Marcos e prazos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D5-Substituicao.dc.html": {
+      "x": 15200,
+      "y": 11920,
+      "w": 1440,
+      "h": 960,
+      "title": "T06 Detalhe — 5 Substituição",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T06-D6-Documentos.dc.html": {
+      "x": 16720,
+      "y": 11920,
+      "w": 1440,
+      "h": 960,
+      "title": "T06 Detalhe — 6 Documentos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T07A-Formalizado.dc.html": {
+      "x": 0,
+      "y": 15220,
+      "w": 1440,
+      "h": 1320,
+      "title": "T07.A Valores — Formalizado",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T07B-Execucao.dc.html": {
+      "x": 1520,
+      "y": 15220,
+      "w": 1440,
+      "h": 1080,
+      "title": "T07.B Valores — Execução registrada",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T07C-Projecao.dc.html": {
+      "x": 3040,
+      "y": 15220,
+      "w": 1440,
+      "h": 1760,
+      "title": "T07.C Valores — Projeção",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T07D-Cenarios.dc.html": {
+      "x": 4560,
+      "y": 15220,
+      "w": 1440,
+      "h": 1160,
+      "title": "T07.D Valores — Cenários simulados",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Empenhos.dc.html": {
+      "x": 6080,
+      "y": 15220,
+      "w": 1440,
+      "h": 1560,
+      "title": "T08.A Empenhos — Cobertura",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T08B-Notas.dc.html": {
+      "x": 7600,
+      "y": 15220,
+      "w": 1440,
+      "h": 960,
+      "title": "T08.B Empenhos — Notas de empenho",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T08C-RestosPagar.dc.html": {
+      "x": 9120,
+      "y": 15220,
+      "w": 1440,
+      "h": 960,
+      "title": "T08.C Empenhos — Restos a pagar",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T08D-Solicitacoes.dc.html": {
+      "x": 10640,
+      "y": 15220,
+      "w": 1440,
+      "h": 960,
+      "title": "T08.D Empenhos — Solicitações de reforço",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0801-NotaEmpenho.dc.html": {
+      "x": 12160,
+      "y": 15220,
+      "w": 1440,
+      "h": 1280,
+      "title": "T08.01 Variante — Nota de empenho",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0801-Movimento.dc.html": {
+      "x": 13680,
+      "y": 15220,
+      "w": 1440,
+      "h": 1040,
+      "title": "T08.01 Variante — Movimento de empenho",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0801-Liquidacao.dc.html": {
+      "x": 15200,
+      "y": 15220,
+      "w": 1440,
+      "h": 1240,
+      "title": "T08.01 Variante — Liquidação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0801-Pagamento.dc.html": {
+      "x": 16720,
+      "y": 15220,
+      "w": 1440,
+      "h": 1160,
+      "title": "T08.01 Variante — Pagamento",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T0801-Reforco.dc.html": {
+      "x": 18240,
+      "y": 15220,
+      "w": 1440,
+      "h": 1120,
+      "title": "T08.01 Variante — Solicitação de reforço",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Pagamentos.dc.html": {
+      "x": 0,
+      "y": 17400,
+      "w": 1440,
+      "h": 1520,
+      "title": "T09.A Pagamentos — Obrigações",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T09B-DocFiscais.dc.html": {
+      "x": 1520,
+      "y": 17400,
+      "w": 1440,
+      "h": 1360,
+      "title": "T09.B Pagamentos — Documentos fiscais",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T09C-Liquidacoes.dc.html": {
+      "x": 3040,
+      "y": 17400,
+      "w": 1440,
+      "h": 1080,
+      "title": "T09.C Pagamentos — Liquidações",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T09D-Pagamentos.dc.html": {
+      "x": 4560,
+      "y": 17400,
+      "w": 1440,
+      "h": 1120,
+      "title": "T09.D Pagamentos — Pagamentos e retenções",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T09E-Impedimentos.dc.html": {
+      "x": 6080,
+      "y": 17400,
+      "w": 1440,
+      "h": 1080,
+      "title": "T09.E Pagamentos — Impedimentos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Reajustes.dc.html": {
+      "x": 7600,
+      "y": 17400,
+      "w": 1440,
+      "h": 960,
+      "title": "T10.A Reajustes — Pedidos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T10B-DatasBase.dc.html": {
+      "x": 9120,
+      "y": 17400,
+      "w": 1440,
+      "h": 960,
+      "title": "T10.B Reajustes — Datas-base",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T10C-Retroativos.dc.html": {
+      "x": 10640,
+      "y": 17400,
+      "w": 1440,
+      "h": 960,
+      "title": "T10.C Reajustes — Retroativos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1001-Simulacao.dc.html": {
+      "x": 12160,
+      "y": 17400,
+      "w": 1440,
+      "h": 1240,
+      "title": "T10.01 Simulação e memória de cálculo",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Providencias.dc.html": {
+      "x": 0,
+      "y": 19340,
+      "w": 1440,
+      "h": 960,
+      "title": "T11.A Providências — Minhas",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T11B-Todas.dc.html": {
+      "x": 1520,
+      "y": 19340,
+      "w": 1440,
+      "h": 3240,
+      "title": "T11.B Providências — Todas (com editor lateral)",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T11C-PorResponsavel.dc.html": {
+      "x": 3040,
+      "y": 19340,
+      "w": 1440,
+      "h": 960,
+      "title": "T11.C Providências — Por responsável",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T11D-Concluidas.dc.html": {
+      "x": 4560,
+      "y": 19340,
+      "w": 1440,
+      "h": 960,
+      "title": "T11.D Providências — Concluídas e canceladas",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Notificacoes.dc.html": {
+      "x": 6080,
+      "y": 19340,
+      "w": 1440,
+      "h": 1560,
+      "title": "T12.A Notificações — Não lidas",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T12B-Historico.dc.html": {
+      "x": 7600,
+      "y": 19340,
+      "w": 1440,
+      "h": 1000,
+      "title": "T12.B Notificações — Histórico",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T12C-Resumos.dc.html": {
+      "x": 9120,
+      "y": 19340,
+      "w": 1440,
+      "h": 960,
+      "title": "T12.C Notificações — Resumos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Relatorios.dc.html": {
+      "x": 10640,
+      "y": 19340,
+      "w": 1440,
+      "h": 1600,
+      "title": "T13.A Relatórios — Catálogo",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T13B-Emissoes.dc.html": {
+      "x": 12160,
+      "y": 19340,
+      "w": 1440,
+      "h": 960,
+      "title": "T13.B Relatórios — Emissões recentes",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1301-Previa.dc.html": {
+      "x": 13680,
+      "y": 19340,
+      "w": 1440,
+      "h": 1520,
+      "title": "T13.01 Prévia e exportação — RPT15",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1401-Usuarios.dc.html": {
+      "x": 0,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.01 Usuários",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1401-Perfis.dc.html": {
+      "x": 1520,
+      "y": 23000,
+      "w": 1440,
+      "h": 1400,
+      "title": "T14.01 Perfis e permissões",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1401-Unidades.dc.html": {
+      "x": 3040,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.01 Unidades",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1402-Categorias.dc.html": {
+      "x": 4560,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.02 Categorias e grupos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1402-Etapas.dc.html": {
+      "x": 6080,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.02 Etapas e listas de verificação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1402-Parametros.dc.html": {
+      "x": 7600,
+      "y": 23000,
+      "w": 1440,
+      "h": 1240,
+      "title": "T14.02 Parâmetros internos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1402-Regras.dc.html": {
+      "x": 9120,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.02 Regras jurídicas",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1402-Calendario.dc.html": {
+      "x": 10640,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.02 Calendário e índices",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1403-Regras.dc.html": {
+      "x": 12160,
+      "y": 23000,
+      "w": 1440,
+      "h": 1600,
+      "title": "T14.03 Regras por evento",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1403-Destinatarios.dc.html": {
+      "x": 13680,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.03 Destinatários e canais",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1403-Monitor.dc.html": {
+      "x": 15200,
+      "y": 23000,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.03 Monitor do agendador",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Importacao.dc.html": {
+      "x": 0,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.01 Lotes",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140402-Mapeamento.dc.html": {
+      "x": 1520,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.02 Prévia e mapeamento",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140403-Conciliacao.dc.html": {
+      "x": 3040,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.03 Conciliação de contratos",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140404-Designacao.dc.html": {
+      "x": 4560,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.04 Divergências de designação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140405-Validacao.dc.html": {
+      "x": 6080,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.05 Validação por domínio",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140406-Qualidade.dc.html": {
+      "x": 7600,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.06 Qualidade da carteira",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T140407-Recibo.dc.html": {
+      "x": 9120,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.04.07 Recibo e reconciliação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1405-Trilha.dc.html": {
+      "x": 10640,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.05 Trilha de auditoria",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1405-Exportacoes.dc.html": {
+      "x": 12160,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.05 Exportações",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1405-Correcoes.dc.html": {
+      "x": 13680,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.05 Correções",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1406-Copias.dc.html": {
+      "x": 15200,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.06 Cópias e recuperação",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1407-Conectores.dc.html": {
+      "x": 16720,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.07 Integrações — Conectores",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1407-Execucoes.dc.html": {
+      "x": 18240,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.07 Integrações — Execuções",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "T1407-Divergencias.dc.html": {
+      "x": 19760,
+      "y": 25020,
+      "w": 1440,
+      "h": 1200,
+      "title": "T14.07 Integrações — Divergências",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Padroes.dc.html": {
+      "x": 0,
+      "y": 26640,
+      "w": 1440,
+      "h": 2720,
+      "title": "Padrões comuns e estados obrigatórios",
+      "is_interactive": true,
+      "expand": "fill"
+    },
+    "Celular.dc.html": {
+      "x": 1520,
+      "y": 26640,
+      "w": 390,
+      "h": 1920,
+      "title": "Celular — Ação agora",
+      "is_interactive": true
+    },
+    "CelularFicha.dc.html": {
+      "x": 1990,
+      "y": 26640,
+      "w": 390,
+      "h": 1200,
+      "title": "Celular — Ficha do contrato",
+      "is_interactive": true
+    },
+    "CelularNotificacao.dc.html": {
+      "x": 2460,
+      "y": 26640,
+      "w": 390,
+      "h": 1000,
+      "title": "Celular — Notificação",
+      "is_interactive": true
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-10T03:41:25Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "noteOrder": [
+    "r01",
+    "r02",
+    "r03",
+    "r04",
+    "r05",
+    "r06",
+    "r07",
+    "r08",
+    "r09",
+    "r09b",
+    "r10",
+    "legenda"
+  ],
+  "notes": {
+    "r01": {
+      "kind": "title1",
+      "text": "T01 Início (abas A, B, C) · T00 Acesso e sessão",
+      "x": 0,
+      "y": -280,
+      "maxW": 9040,
+      "w": 240
+    },
+    "r02": {
+      "kind": "title1",
+      "text": "T02 Carteira de contratos",
+      "x": 0,
+      "y": 2900,
+      "maxW": 6000,
+      "w": 240
+    },
+    "r03": {
+      "kind": "title1",
+      "text": "T03 Ficha única do contrato — abas T03.01 a T03.11",
+      "x": 0,
+      "y": 5760,
+      "maxW": 18160,
+      "w": 240
+    },
+    "r04": {
+      "kind": "title1",
+      "text": "T04 Cadastro e edição (7 passos e revisão) · T04.01 Formalização de evento",
+      "x": 0,
+      "y": 8740,
+      "maxW": 13600,
+      "w": 240
+    },
+    "r05": {
+      "kind": "title1",
+      "text": "T05 Vencimentos e continuidade · T06 Prorrogações e substituições",
+      "x": 0,
+      "y": 11640,
+      "maxW": 18160,
+      "w": 240
+    },
+    "r06": {
+      "kind": "title1",
+      "text": "T07 Valores e planejamento · T08 Empenhos e reforços · T08.01 Movimentação",
+      "x": 0,
+      "y": 14940,
+      "maxW": 19680,
+      "w": 240
+    },
+    "r07": {
+      "kind": "title1",
+      "text": "T09 Documentos fiscais e pagamentos · T10 Reajustes e T10.01 Simulação",
+      "x": 0,
+      "y": 17120,
+      "maxW": 13600,
+      "w": 240
+    },
+    "r08": {
+      "kind": "title1",
+      "text": "T11 Providências · T12 Notificações · T13 Relatórios",
+      "x": 0,
+      "y": 19060,
+      "maxW": 15120,
+      "w": 240
+    },
+    "r09": {
+      "kind": "title1",
+      "text": "T14 Administração — T14.01 a T14.03",
+      "x": 0,
+      "y": 22720,
+      "maxW": 16640,
+      "w": 240
+    },
+    "r09b": {
+      "kind": "title1",
+      "text": "T14 Administração — T14.04 a T14.07",
+      "x": 0,
+      "y": 24740,
+      "maxW": 21200,
+      "w": 240
+    },
+    "r10": {
+      "kind": "title1",
+      "text": "Padrões comuns (12.1) e consulta pelo celular (12.6)",
+      "x": 0,
+      "y": 26360,
+      "maxW": 2850,
+      "w": 240
+    },
+    "legenda": {
+      "text": "Protótipo navegável do Projeto Básico v0.4 (seção 12) — tema escuro de alto contraste; dados fictícios. Cada aba é um artboard e as abas, menus, trilhas e ações apontam umas para as outras: use Play a partir de “T01.A Início — Ação agora”. A ficha de exemplo é a do contrato 012/2025. Rótulos fixos e estados obrigatórios no artboard “Padrões comuns”.",
+      "x": -680,
+      "y": 0,
+      "w": 560,
+      "fill": "blue",
+      "size": 22
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "T01B-Indicadores.dc.html",
+    "T01C-Financeiro.dc.html",
+    "T00-Acesso.dc.html",
+    "T00-Unidade.dc.html",
+    "T00-Sessao.dc.html",
+    "Carteira.dc.html",
+    "T02B-Encerrados.dc.html",
+    "T02C-Rascunhos.dc.html",
+    "T02D-Todos.dc.html",
+    "Ficha.dc.html",
+    "T0302-Prazos.dc.html",
+    "T03-Historico.dc.html",
+    "T0303-Valores.dc.html",
+    "T0304-Empenhos.dc.html",
+    "T0305-Pagamentos.dc.html",
+    "T0306-Alteracoes.dc.html",
+    "T0307-Garantias.dc.html",
+    "T0308-Responsaveis.dc.html",
+    "T0309-Documentos.dc.html",
+    "T0310-Historico.dc.html",
+    "T0311-Conformidade.dc.html",
+    "T04-P1-Identificacao.dc.html",
+    "T04-P2-Contratada.dc.html",
+    "T04-P3-Origem.dc.html",
+    "T04-P4-Processos.dc.html",
+    "T04-P5-Responsaveis.dc.html",
+    "T04-P6-Prazos.dc.html",
+    "T04-P7-Composicao.dc.html",
+    "T04-Revisao.dc.html",
+    "T0401-Formalizacao.dc.html",
+    "Vencimentos.dc.html",
+    "T05B-Calendario.dc.html",
+    "T05C-Continuidade.dc.html",
+    "T05D-Marcos.dc.html",
+    "Prorrogacoes.dc.html",
+    "T06B-Concluidos.dc.html",
+    "T06-D1-Resumo.dc.html",
+    "T06-D2-Etapas.dc.html",
+    "T06-D3-Checklist.dc.html",
+    "T06-D4-Marcos.dc.html",
+    "T06-D5-Substituicao.dc.html",
+    "T06-D6-Documentos.dc.html",
+    "T07A-Formalizado.dc.html",
+    "T07B-Execucao.dc.html",
+    "T07C-Projecao.dc.html",
+    "T07D-Cenarios.dc.html",
+    "Empenhos.dc.html",
+    "T08B-Notas.dc.html",
+    "T08C-RestosPagar.dc.html",
+    "T08D-Solicitacoes.dc.html",
+    "T0801-NotaEmpenho.dc.html",
+    "T0801-Movimento.dc.html",
+    "T0801-Liquidacao.dc.html",
+    "T0801-Pagamento.dc.html",
+    "T0801-Reforco.dc.html",
+    "Pagamentos.dc.html",
+    "T09B-DocFiscais.dc.html",
+    "T09C-Liquidacoes.dc.html",
+    "T09D-Pagamentos.dc.html",
+    "T09E-Impedimentos.dc.html",
+    "Reajustes.dc.html",
+    "T10B-DatasBase.dc.html",
+    "T10C-Retroativos.dc.html",
+    "T1001-Simulacao.dc.html",
+    "Providencias.dc.html",
+    "T11B-Todas.dc.html",
+    "T11C-PorResponsavel.dc.html",
+    "T11D-Concluidas.dc.html",
+    "Notificacoes.dc.html",
+    "T12B-Historico.dc.html",
+    "T12C-Resumos.dc.html",
+    "Relatorios.dc.html",
+    "T13B-Emissoes.dc.html",
+    "T1301-Previa.dc.html",
+    "T1401-Usuarios.dc.html",
+    "T1401-Perfis.dc.html",
+    "T1401-Unidades.dc.html",
+    "T1402-Categorias.dc.html",
+    "T1402-Etapas.dc.html",
+    "T1402-Parametros.dc.html",
+    "T1402-Regras.dc.html",
+    "T1402-Calendario.dc.html",
+    "T1403-Regras.dc.html",
+    "T1403-Destinatarios.dc.html",
+    "T1403-Monitor.dc.html",
+    "Importacao.dc.html",
+    "T140402-Mapeamento.dc.html",
+    "T140403-Conciliacao.dc.html",
+    "T140404-Designacao.dc.html",
+    "T140405-Validacao.dc.html",
+    "T140406-Qualidade.dc.html",
+    "T140407-Recibo.dc.html",
+    "T1405-Trilha.dc.html",
+    "T1405-Exportacoes.dc.html",
+    "T1405-Correcoes.dc.html",
+    "T1406-Copias.dc.html",
+    "T1407-Conectores.dc.html",
+    "T1407-Execucoes.dc.html",
+    "T1407-Divergencias.dc.html",
+    "Padroes.dc.html",
+    "Celular.dc.html",
+    "CelularFicha.dc.html",
+    "CelularNotificacao.dc.html",
+    "Artboard-bgps.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Page 1"
+    },
+    {
+      "id": "page-rvydoh",
+      "name": "Page 2"
+    }
+  ],
+  "title": "Protótipos — Sistema de Gestão de Contratos"
+}

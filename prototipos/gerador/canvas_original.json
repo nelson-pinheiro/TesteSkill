@@ -1,0 +1,224 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Artboard-bgps.dc.html": {
+      "h": 600,
+      "handmade": true,
+      "page": "page-rvydoh",
+      "title": "Artboard 1",
+      "w": 800,
+      "x": 0,
+      "y": 0
+    },
+    "Carteira.dc.html": {
+      "expand": "fill",
+      "h": 1640,
+      "is_interactive": true,
+      "title": "T02 Carteira de contratos",
+      "w": 1440,
+      "x": 1520,
+      "y": 0
+    },
+    "Celular.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "Celular — Ação agora",
+      "w": 390,
+      "x": 0,
+      "y": 7900
+    },
+    "CelularNotificacao.dc.html": {
+      "h": 844,
+      "is_interactive": true,
+      "title": "Celular — Notificação",
+      "w": 390,
+      "x": 470,
+      "y": 7900
+    },
+    "Empenhos.dc.html": {
+      "expand": "fill",
+      "h": 2560,
+      "is_interactive": true,
+      "title": "T08 Empenhos e reforços",
+      "w": 1440,
+      "x": 1520,
+      "y": 2700
+    },
+    "Ficha.dc.html": {
+      "expand": "fill",
+      "h": 1480,
+      "is_interactive": true,
+      "title": "T03 Ficha do contrato",
+      "w": 1440,
+      "x": 0,
+      "y": 2700
+    },
+    "Importacao.dc.html": {
+      "expand": "fill",
+      "h": 1800,
+      "is_interactive": true,
+      "title": "T14.04 Importação e qualidade",
+      "w": 1440,
+      "x": 4560,
+      "y": 5680
+    },
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 2280,
+      "is_interactive": true,
+      "title": "T01 Início — O que exige ação agora",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Notificacoes.dc.html": {
+      "expand": "fill",
+      "h": 1560,
+      "is_interactive": true,
+      "title": "T12 Central de notificações",
+      "w": 1440,
+      "x": 1520,
+      "y": 5680
+    },
+    "Pagamentos.dc.html": {
+      "expand": "fill",
+      "h": 2080,
+      "is_interactive": true,
+      "title": "T09 Documentos fiscais e pagamentos",
+      "w": 1440,
+      "x": 3040,
+      "y": 2700
+    },
+    "Prorrogacoes.dc.html": {
+      "expand": "fill",
+      "h": 1640,
+      "is_interactive": true,
+      "title": "T06 Prorrogações e substituições",
+      "w": 1440,
+      "x": 4560,
+      "y": 0
+    },
+    "Providencias.dc.html": {
+      "expand": "fill",
+      "h": 1720,
+      "is_interactive": true,
+      "title": "T11 Central de providências",
+      "w": 1440,
+      "x": 0,
+      "y": 5680
+    },
+    "Reajustes.dc.html": {
+      "expand": "fill",
+      "h": 2040,
+      "is_interactive": true,
+      "title": "T10 Reajustes, repactuações e revisões",
+      "w": 1440,
+      "x": 4560,
+      "y": 2700
+    },
+    "Relatorios.dc.html": {
+      "expand": "fill",
+      "h": 1640,
+      "is_interactive": true,
+      "title": "T13 Relatórios",
+      "w": 1440,
+      "x": 3040,
+      "y": 5680
+    },
+    "Vencimentos.dc.html": {
+      "expand": "fill",
+      "h": 1900,
+      "is_interactive": true,
+      "title": "T05 Vencimentos e continuidade",
+      "w": 1440,
+      "x": 3040,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-10T03:41:25Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "noteOrder": [
+    "t1",
+    "t2",
+    "t3",
+    "t4",
+    "n1"
+  ],
+  "notes": {
+    "n1": {
+      "fill": "blue",
+      "size": 24,
+      "text": "Protótipos do Projeto Básico v0.3 — tema escuro. Dados fictícios. Vocabulário fixo: prioridade Crítica/Alta/Média/Planejamento; risco Existente/Alto/Moderado/Indeterminado; natureza do valor Formalizado/Execução registrada/Projeção/Cenário simulado. Use Play para navegar pela barra lateral.",
+      "w": 520,
+      "x": 960,
+      "y": 7900
+    },
+    "t1": {
+      "kind": "title1",
+      "maxW": 6000,
+      "text": "Carteira, prazos e continuidade",
+      "w": 240,
+      "x": 0,
+      "y": -280
+    },
+    "t2": {
+      "kind": "title1",
+      "maxW": 6000,
+      "text": "Contrato, valores e recursos",
+      "w": 240,
+      "x": 0,
+      "y": 2420
+    },
+    "t3": {
+      "kind": "title1",
+      "maxW": 6000,
+      "text": "Providências, avisos, relatórios e carga",
+      "w": 240,
+      "x": 0,
+      "y": 5400
+    },
+    "t4": {
+      "kind": "title1",
+      "maxW": 2400,
+      "text": "Consulta pelo celular",
+      "w": 240,
+      "x": 0,
+      "y": 7620
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "Carteira.dc.html",
+    "Vencimentos.dc.html",
+    "Prorrogacoes.dc.html",
+    "Ficha.dc.html",
+    "Empenhos.dc.html",
+    "Pagamentos.dc.html",
+    "Reajustes.dc.html",
+    "Providencias.dc.html",
+    "Notificacoes.dc.html",
+    "Relatorios.dc.html",
+    "Importacao.dc.html",
+    "Celular.dc.html",
+    "CelularNotificacao.dc.html",
+    "Artboard-bgps.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Page 1"
+    },
+    {
+      "id": "page-rvydoh",
+      "name": "Page 2"
+    }
+  ],
+  "title": "Protótipos — Sistema de Gestão de Contratos"
+}
